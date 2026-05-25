@@ -1,4 +1,7 @@
 # SQL ETL & Data Validation Project
+📁 /scripts  
+📁 /validation-queries  
+📁 /data-samples 
 
 ## Overview
 This project demonstrates a SQL-based ETL process simulating real-world data integration and production support scenarios within a financial data environment.
